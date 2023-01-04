@@ -1,0 +1,13 @@
+
+[
+java:S3740/"/Provide the parametrized type for this generic.(ÐÕÕ HóRMAJORZ
+CODE_SMELL
+[
+java:S1128"*Remove this unused import 'java.awt.List'.(žë½½üÿÿÿÿH÷RMINORZ
+CODE_SMELL
+[
+java:S3740>"/Provide the parametrized type for this generic.(ÐÕÕ HôRMAJORZ
+CODE_SMELL
+…
+java:S41449"ZUpdate this method so that its implementation is not identical to "getEmpBean" on line 42.(ý˜ÃHõRMAJORZ
+CODE_SMELL

@@ -1,0 +1,50 @@
+
+d	java:S106u"9Replace this use of System.out or System.err by a logger.(ŒşŸ…HöRMAJORZ
+CODE_SMELL
+d	java:S106R"9Replace this use of System.out or System.err by a logger.(”‹ª¦HïRMAJORZ
+CODE_SMELL
+d	java:S106Ã"9Replace this use of System.out or System.err by a logger.(ŞŸœH“RMAJORZ
+CODE_SMELL
+i	java:S1069"9Replace this use of System.out or System.err by a logger.(¿²âïúÿÿÿÿHêRMAJORZ
+CODE_SMELL
+d	java:S106/"9Replace this use of System.out or System.err by a logger.(»ñÈÊHèRMAJORZ
+CODE_SMELL
+i	java:S106a"9Replace this use of System.out or System.err by a logger.(§…¥ıÿÿÿÿHòRMAJORZ
+CODE_SMELL
+i	java:S106M"9Replace this use of System.out or System.err by a logger.(å•ƒüÿÿÿÿHîRMAJORZ
+CODE_SMELL
+]
+java:S1948")Make "address" transient or serializable.(ßÍ˜²ıÿÿÿÿHåRCRITICALZ
+CODE_SMELL
+e	java:S106Æ"9Replace this use of System.out or System.err by a logger.(ªõĞşH”RMAJORZ
+CODE_SMELL
+d	java:S106W"9Replace this use of System.out or System.err by a logger.(Šç³HğRMAJORZ
+CODE_SMELL
+d	java:S106k"9Replace this use of System.out or System.err by a logger.(ëßêïHôRMAJORZ
+CODE_SMELL
+l	java:S107"AConstructor has 8 parameters, which is greater than 7 authorized.(ª®‡°HãRMAJORZ
+CODE_SMELL
+d	java:S106f"9Replace this use of System.out or System.err by a logger.(Ìªû„HóRMAJORZ
+CODE_SMELL
+d	java:S106>"9Replace this use of System.out or System.err by a logger.(²™•HëRMAJORZ
+CODE_SMELL
+d	java:S106C"9Replace this use of System.out or System.err by a logger.(õÈ´§HìRMAJORZ
+CODE_SMELL
+d	java:S106H"9Replace this use of System.out or System.err by a logger.(º‰ÚHíRMAJORZ
+CODE_SMELL
+i	java:S1064"9Replace this use of System.out or System.err by a logger.(üë—úÿÿÿÿHéRMAJORZ
+CODE_SMELL
+^
+java:S1948"*Make "address2" transient or serializable.(ĞÀÖ¸ÿÿÿÿÿHäRCRITICALZ
+CODE_SMELL
+c	java:S106*"9Replace this use of System.out or System.err by a logger.(ù×yHçRMAJORZ
+CODE_SMELL
+‚
+java:S3776‰"RRefactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.(ÜÑãH÷RCRITICALZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(÷Ô³–ûÿÿÿÿHæRMAJORZ
+CODE_SMELL
+d	java:S106p"9Replace this use of System.out or System.err by a logger.(Ûå»ÜHõRMAJORZ
+CODE_SMELL
+i	java:S106\"9Replace this use of System.out or System.err by a logger.(ğç”‚ıÿÿÿÿHñRMAJORZ
+CODE_SMELL

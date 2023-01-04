@@ -1,0 +1,17 @@
+
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„İ­’HêRMINORZ
+CODE_SMELL
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÿ¤ÕıÿÿÿÿHëRMINORZ
+CODE_SMELL
+n
+java:S1854"=Remove this useless assignment to local variable "employee1".(á¾ÇµùÿÿÿÿHìRMAJORZ
+CODE_SMELL
+l	java:S125"<This block of commented-out lines of code should be removed.(Ç¡®øÿÿÿÿHíRMAJORZ
+CODE_SMELL
+_
+java:S1481".Remove this unused "employee1" local variable.(á¾ÇµùÿÿÿÿHîRMINORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(ŠêÍ«HğRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.( ‚ HñRMAJORZ
+CODE_SMELL

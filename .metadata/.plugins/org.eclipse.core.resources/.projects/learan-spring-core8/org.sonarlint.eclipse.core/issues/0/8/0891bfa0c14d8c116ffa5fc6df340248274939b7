@@ -1,0 +1,17 @@
+
+|	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¥¿„H°RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(½¦ÿÿÿÿÿH±RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ä¶ıÿÿÿÿH²RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.( ÕÁûÿÿÿÿH³RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(»ÍğŠøÿÿÿÿH´RMAJORZ
+CODE_SMELL
+w
+java:S1128"KRemove this unused import 'org.springframework.context.ApplicationContext'.(»Ô»¿HµRMINORZ
+CODE_SMELL
+
+java:S1128"_Remove this unused import 'org.springframework.context.support.ClassPathXmlApplicationContext'.(•ËÛüÿÿÿÿH·RMINORZ
+CODE_SMELL

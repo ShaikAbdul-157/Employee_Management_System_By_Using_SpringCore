@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.te.learnspringcore.entity&apos; to &apos;com.te.learanspringcore02/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;learn-spring-core01&apos;&#x0D;&#x0A;- Destination element: &apos;com.te.learanspringcore02/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;learn-spring-core01/src/main/java/com.te.learnspringcore.entity&apos;" description="Copy package" destination="=com.te.learanspringcore02/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.te.learnspringcore.entity" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1666695777300" version="1.0"/>
+</session>

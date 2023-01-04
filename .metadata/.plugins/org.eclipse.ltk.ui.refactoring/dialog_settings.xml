@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="RefactoringStatusDialog">
+		<item key="DIALOG_WIDTH" value="822"/>
+		<item key="DIALOG_HEIGHT" value="529"/>
+		<item key="DIALOG_FONT_NAME" value="1|JetBrains Mono|9.0|3|WINDOWS|1|-18|0|0|0|700|-1|0|0|0|3|2|1|49|JetBrains Mono"/>
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item key="width" value="600"/>
+		<item key="height" value="400"/>
+	</section>
+</section>

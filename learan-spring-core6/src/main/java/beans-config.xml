@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:mvc="http://www.springframework.org/schema/mvc"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/mvc
+	http://www.springframework.org/schema/mvc/spring-mvc.xsd
+	http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+	http://www.springframework.org/schema/context
+	http://www.springframework.org/schema/context/spring-context-3.0.xsd">
+		<context:annotation-config/>
+	
+	<!-- <bean class="com.te.learnspringcore.entity.Address" name="address"> 
+		<property name="employeeAddressType" value="somajiguda" /> <property name="employeeContry" 
+		value="India"></property> <property name="employeeCity" value="Hyderabad"></property> 
+		</bean> -->
+	<bean class="com.te.learnspringcore.entity.Address"
+		name="address01">
+		<constructor-arg name="employeeAddressType"
+			value="present" />
+		<constructor-arg name="employeeContry" value="India" />
+		<constructor-arg name="employeeCity" value="Hyderabad" />
+	</bean>
+
+	<bean class="com.te.learnspringcore.entity.Address" name="address">
+		<constructor-arg name="employeeAddressType"
+			value="PAST" />
+		<constructor-arg name="employeeContry" value="India" />
+		<constructor-arg name="employeeCity" value="Hyderabad" />
+	</bean>
+
+	<bean class="com.te.learnspringcore.entity.Employee"
+		name="employee"  >
+		<property name="empId" value="02" />
+
+
+		<property name="empName" value="Raj" />
+
+		<property name="empAge" value="22" />
+
+		<property name="empsal" value="34000d" />
+		<property name="empFrinds">
+			<list>
+				<value>A</value>
+				<value>B</value>
+				<value>C</value>
+				<value>D</value>
+			</list>
+		</property>
+		<property name="empProjects">
+			<set>
+
+				<value>A</value>
+				<value>B</value>
+				<value>C</value>
+				<value>D</value>
+			</set>
+		</property>
+		<property name="empContribution">
+			<map>
+				<entry key="Abc" value="20" />
+				<entry key="bcd" value="10" />
+				<entry key="enf" value="22" />
+			</map>
+		</property>
+		<!-- <property name="address" ref="address" /> -->
+	</bean>
+</beans>

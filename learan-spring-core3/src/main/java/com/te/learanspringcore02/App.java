@@ -1,0 +1,21 @@
+package com.te.learanspringcore02;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.AbstractApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import com.te.learnspringcore.entity.Employee;
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        AbstractApplicationContext applicationContext=new ClassPathXmlApplicationContext("beans-config.xml");
+        //applicationContext.close();
+        applicationContext.registerShutdownHook();
+        Employee employee =(Employee)applicationContext.getBean("employee");
+        System.out.println(employee);
+        applicationContext.close();
+    }
+}
